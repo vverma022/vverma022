@@ -2,7 +2,7 @@
 
 <!--
 **vverma022/vverma022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![An image of @vverma022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vverma022)](https://holopin.io/@vverma022)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
