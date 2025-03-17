@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![An image of @vverma022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vverma022)](https://holopin.io/@vverma022)
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/cf299650-ad46-47cf-9607-e540c0a3bf23)
+
 <!--
 **vverma022/vverma022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
