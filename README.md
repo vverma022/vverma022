@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cf299650-ad46-47cf-9607-e540c0a3bf23" alt="Centered GIF" height="300">
+  <img src="https://github.com/user-attachments/assets/cf299650-ad46-47cf-9607-e540c0a3bf23" alt="Centered GIF" height="500">
 </div>
 
 <!--
